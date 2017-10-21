@@ -23,9 +23,16 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## Learning Laravel At Institute Of Freelancing
 
-At Institute Of Freelancing , we are helding bootcamps on Saturdays, this is first one.
+At Institute Of Freelancing , we are holding bootcamps on Saturdays, this is first one.
 In this Application We used Blade Syntax In Views and created A Basic First Application From Scratch. 
 Aim was to learn One Workflow of building Applications In Laravel. 
+
+###Topics Covered Werer:
+1. Laravel Models
+2. Migrations
+3. Using Controllers with Models To Fetch Data & Passing it to Views 
+4. Routes Mapping On Controllers
+5. Views Rendering & Reuse
 
 Next Sessions Will Be Held to learn Advanced Laravel In Upcoming Sessions. 
 
